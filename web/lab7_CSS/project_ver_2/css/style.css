@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 800px;
+    background: url("../images/header.png");
+}
+
+#wrapper {
+    /*width: 800px;*/
+    margin: auto;
+}
+
+#header_1{
+    border: 3px solid yellowgreen;
+    height: 50px;
+}
+
+#header_2 {
+    border: 3px solid green;
+    height: 250px;
+    background: url("../images/logo_bg.png") no-repeat ;
+    background-position: center;
+}

@@ -1,0 +1,25 @@
+@import url(reset.css);
+@import url(typography.css);
+body {
+     width: 100%; 
+}
+.container {
+    width: 800px;
+    margin: auto;
+}
+#status_bar {
+    height: 50px;
+    background: url(../img/status_bg.png);
+}
+#greet {
+    padding: 18px;
+}
+#header {
+    display: block;
+    height: 250px;
+    background: url(../img/header_bg.png) no-repeat center #75b9c9;
+}
+#logo_1 {
+    padding: 10px;
+}
+

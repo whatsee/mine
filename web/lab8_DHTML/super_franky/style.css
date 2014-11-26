@@ -1,0 +1,26 @@
+#super td{
+    border: 1px solid black;
+}
+
+.cl1 {
+    font: 12px 'Courier New';
+    color: blue;
+}
+.cl2 {
+    color: red;
+    font-weight: bolder;
+}
+.cl3 {
+    color: green;
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+.cl4 {
+    color: black;
+    border: 1px dashed red;
+}
+.cl5 {
+    color: blue;
+    font-weight: 700;
+    font-style: italic;
+}

@@ -1,0 +1,107 @@
+/* Определение шрифтов для heading */
+
+h1
+{
+    font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    font-weight: normal;
+
+    color: #4d4d4d;
+}
+h1 a
+{
+    text-decoration: none;
+
+    color: #4d4d4d;
+}
+h2
+{
+    font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+
+    letter-spacing: 28px;
+    text-transform: uppercase;
+
+    color: #6ec9cc;
+}
+h3
+{
+    font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+
+    color: #6ec9cc;
+}
+h4
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+
+    text-align: center;
+
+    color: #fff;
+}
+h4 a
+{
+    text-decoration: none;
+
+    color: #fff;
+}
+h5
+{
+    font-family: 'Myriad Pro', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+
+    color: #6ec9cc;
+}
+h5 a
+{
+    text-decoration: none;
+
+    color: #6ec9cc;
+}
+
+/* Определение шрифтов и цвета для paragraph */
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+
+    color: #525252;
+}
+p.meta
+{
+    font-size: 10px;
+
+    text-align: right;
+
+    color: #707070;
+}
+#footer-text
+{
+    text-align: center;
+}
+#message p
+{
+    line-height: 20px;
+
+    color: #4d4d4d;
+}
+
+/* Определение шрифтов и цвета для link */
+a
+{
+    text-decoration: none;
+
+    color: #999;
+}
+#action-bar a
+{
+    color: #fff;
+}
+#action-bar a:hover
+{
+    color: #6eb9cc;
+}

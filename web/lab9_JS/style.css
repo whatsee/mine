@@ -1,0 +1,22 @@
+body {
+    margin: auto;
+}
+.head {
+    text-align: center;
+    text-decoration: underline;
+}
+.p {
+    font: 20px 'Times New Roman';
+    color: #0290e6;
+}
+#disc {
+    margin: auto;
+    margin-left: 830px;
+}
+#disc li{
+    display: inline-block;
+}
+#ok {
+    margin-left: 865px;
+    border-radius: 5px;
+}

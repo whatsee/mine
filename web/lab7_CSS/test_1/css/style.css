@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #eeeeee;
+}
+
+@font-face {
+    font-family: LatoHairline;
+    src: url("../font/Lato-Hairline.ttf");
+}
+
+@font-face {
+    font-family: Existence_Light;
+    src: url("../font/Existence_Light.otf");
+}
+
+@font-face {
+    font-family: LatoRegular;
+    src: url("../font/Lato-Regular.ttf");
+}
+
+#wrapper {
+    width: 1170px;
+    margin: auto;
+}
+
+#greeting_header {
+    height: 1100px;
+    border: 2px solid deeppink;
+    background: url("../images/header.png") no-repeat;
+    background-position: center ;
+}
+
+#logo_text_1 {
+    text-align: center;
+    color: #ffffff;
+    font: 90px 'Existence_Light';
+    font-weight: bold;
+
+}
+
+#logo_text_2 {
+    text-align: center;
+    color: #ffffff;
+    font: 48px 'LatoHairline';
+    font-weight: bold;
+}
+
+#logo_text_3 {
+    text-align: center;
+    color: #ffffff;
+    font: 24px 'LatoHairline';
+    font-weight: bold;
+}
+
+#kara {
+    color: #9f449b;
+}
+
+#group1 {
+    margin-top: 80px;
+    margin-left: 405px;
+}
+
+#group2 {
+    margin-top: 27px;
+}
+
+
+.one {
+    float: left;
+    margin-left: 15px;
+}
+
+.two {
+    float: right;
+    margin-right: 15px;
+}
+
+#group3 {
+    margin-top: 170px;
+    margin-left: 543px;
+    /*margin-bottom: 83px;*/
+}
+
+#header {
+    height: 143px;
+    border: 2px solid yellow;
+}
+
+#menu_1 {
+    mergin-top: 15px;
+    margin-right: 130px;
+}
+
+#menu_1 li {
+    margin-top: 15px;
+    float: right;
+    display: inline-block;
+}
+
+#logo_text_4 {
+    float: left;
+}
